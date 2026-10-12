@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">LogCollector</title>
+  <desc id="desc">Сбор и фильтрация логов. Клиентская DLL, TCP-сервер и администратор WPF.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142039"/><stop offset="1" stop-color="#263f69"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#709ef4"/><stop offset="1" stop-color="#69cbb9"/></linearGradient>
+  </defs>
+  <rect width="1280" height="330" rx="20" fill="url(#bg)"/>
+  <g fill="none" stroke="#acc7f3" opacity=".08">
+    <path d="M640 0v330M720 0v330M800 0v330M880 0v330M960 0v330M1040 0v330M1120 0v330M1200 0v330"/>
+    <path d="M610 60h670M610 120h670M610 180h670M610 240h670M610 300h670"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="48" y="61" fill="#a9c9ff" font-size="16" font-weight="600" letter-spacing="3">LOGCOLLECTOR</text>
+    <text x="48" y="122" fill="#fff" font-size="46" font-weight="700">Сбор и фильтрация</text>
+    <text x="48" y="176" fill="#fff" font-size="46" font-weight="700">логов</text>
+    <text x="48" y="217" fill="#bdcde5" font-size="19">События приложений · единый журнал</text>
+    <text x="48" y="247" fill="#bdcde5" font-size="19">Пороги источников · статистика по уровням</text>
+    <rect x="48" y="273" width="235" height="29" rx="14" fill="#354e74"/>
+    <text x="65" y="293" fill="#e0ebfc" font-size="13">КУРСОВОЙ ПРОЕКТ · ПСП</text>
+    <g>
+      <rect x="680" y="65" width="162" height="190" rx="14" fill="#203452" stroke="#6983ae"/>
+      <rect x="874" y="65" width="162" height="190" rx="14" fill="#203452" stroke="#6983ae"/>
+      <rect x="1068" y="65" width="162" height="190" rx="14" fill="#203452" stroke="#6983ae"/>
+      <path d="M845 160h24m-7-6 7 6-7 6M1039 160h24m-7-6 7 6-7 6" stroke="url(#line)" stroke-width="2.5" fill="none"/>
+      <g fill="none" stroke="#9abdf8" stroke-width="2.2">
+        <path d="M718 106h50v32h-50zM728 143h50v32h-50z"/>
+        <path d="M919 107h69v55h-69zM932 174h43M942 163v11M966 163v11"/>
+        <path d="M1107 107h83v68h-83zM1107 126h83M1120 158v-16M1139 158v-24M1158 158v-12M1177 158v-29"/>
+      </g>
+      <text x="761" y="205" text-anchor="middle" fill="#fff" font-size="18" font-weight="600">Клиент DLL</text>
+      <text x="761" y="232" text-anchor="middle" fill="#b6c9e6" font-size="14">События</text>
+      <text x="955" y="205" text-anchor="middle" fill="#fff" font-size="18" font-weight="600">TCP-сервер</text>
+      <text x="955" y="232" text-anchor="middle" fill="#b6c9e6" font-size="14">Обработка</text>
+      <text x="1149" y="205" text-anchor="middle" fill="#fff" font-size="18" font-weight="600">WPF</text>
+      <text x="1149" y="232" text-anchor="middle" fill="#b6c9e6" font-size="14">Управление</text>
+    </g>
+    <text x="954" y="292" text-anchor="middle" fill="#b8cee9" font-size="15">C# 5 · .NET Framework 4.8 · TCP</text>
+  </g>
+</svg>

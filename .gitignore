@@ -1,0 +1,10 @@
+build/
+data/
+tmp/
+bin/
+obj/
+.vs/
+__pycache__/
+*.log
+*.user
+*.suo

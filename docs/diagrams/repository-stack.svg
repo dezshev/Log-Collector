@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 34" role="img" aria-labelledby="title">
+  <title id="title">C# 5, .NET Framework 4.8, WPF, TCP и 46 автоматических сценариев</title>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect x="0" y="2" width="72" height="28" rx="6" fill="#edf3ff"/><text x="36" y="21" text-anchor="middle" fill="#2a4b89">C# 5</text>
+    <rect x="82" y="2" width="184" height="28" rx="6" fill="#f0edff"/><text x="174" y="21" text-anchor="middle" fill="#564089">.NET Framework 4.8</text>
+    <rect x="276" y="2" width="68" height="28" rx="6" fill="#edf3ff"/><text x="310" y="21" text-anchor="middle" fill="#2a4b89">WPF</text>
+    <rect x="354" y="2" width="68" height="28" rx="6" fill="#eaf6f0"/><text x="388" y="21" text-anchor="middle" fill="#296249">TCP</text>
+    <rect x="432" y="2" width="285" height="28" rx="6" fill="#eaf6f0"/><text x="574" y="21" text-anchor="middle" fill="#296249">46 автоматических сценариев</text>
+  </g>
+</svg>

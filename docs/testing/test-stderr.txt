@@ -1,0 +1,4 @@
+Log storage failed: UnauthorizedAccessException. Fix storage and restart the server.
+Log storage failed: IOException. Fix storage and restart the server.
+Log storage failed: IOException. Fix storage and restart the server.
+Log storage failed: IOException. Fix storage and restart the server.

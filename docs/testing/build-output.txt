@@ -1,0 +1,8 @@
+Built LogCollector.Common.dll
+Built LogCollector.Client.dll
+Built LogCollector.Server.exe
+Built LogCollector.DemoAgent.exe
+Built LogCollector.AdminConsole.exe
+Built LogCollector.AdminWpf.exe
+Built LogCollector.Tests.exe
+Built LogCollector.UiTests.exe

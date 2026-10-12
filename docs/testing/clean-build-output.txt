@@ -1,0 +1,56 @@
+Built LogCollector.Common.dll
+Built LogCollector.Client.dll
+Built LogCollector.Server.exe
+Built LogCollector.DemoAgent.exe
+Built LogCollector.AdminConsole.exe
+Built LogCollector.AdminWpf.exe
+Built LogCollector.Tests.exe
+Built LogCollector.UiTests.exe
+PASS R03 validation and five ordered levels
+PASS R03 R08 Unicode, timestamp and multiline round trip
+PASS R08 fragmented and coalesced stream frames
+PASS R08 truncated frame is not clean EOF
+PASS R08 invalid type, length, UTF-8 and trailing payload
+PASS R05 common log rotation and escaped physical lines
+PASS R05 restart appends without truncation
+PASS R05 recovery removes only incomplete final record
+PASS R05 oversized record remains whole
+PASS R06 all thresholds and isolation of sources
+PASS R04 duplicate names and disconnection cleanup
+PASS R01 R09 R10 three simultaneous agents and exact totals
+PASS R02 roles and administrator authentication
+PASS R03 agent cannot impersonate another source
+PASS R08 invalid peer does not stop the server
+PASS R09 unfinished greeting does not block an agent
+PASS R08 R09 incomplete established frame has a deadline
+PASS R05 R10 storage failure is not acknowledged as stored
+PASS R09 bounded connections
+PASS R09 shutdown releases connected clients
+PASS R07 library reports unavailable server
+PASS R03 R08 empty and exact maximum UTF-8 messages
+PASS R05 exact rotation limit and empty last segment
+PASS R09 unfinished greeting expires
+PASS R08 total deadline under a slow byte drip
+PASS R06 configured source limit and existing updates
+PASS R07 blocked request can be interrupted by Dispose
+PASS R07 lost acknowledgement is not silently retried
+PASS R05 R06 R10 explicit restart semantics
+PASS R10 validated immutable server snapshot
+PASS R10 malformed snapshots rejected before presentation
+PASS R01 R06 R10 concurrent rule changes and exact accounting
+PASS R06 invalid filter acknowledgement closes the channel
+PASS R05 R10 partial write faults storage and restart recovers tail
+RESULT: 34 passed, 0 failed
+PASS R11 connect, three agents, filter, statistics and resizing
+PASS R11 invalid inputs do not start a connection
+PASS R11 unavailable server and wrong token
+PASS R11 server loss clears current data
+PASS R11 delayed server leaves UI message loop responsive
+PASS R11 cancel connection discards a late result
+PASS R11 close during a blocked request returns immediately
+PASS R11 malformed snapshot is never displayed
+PASS R11 periodic refresh receives new records
+PASS R11 source selection and invalid source validation
+PASS R11 disconnect interrupts a refresh and ignores its result
+PASS R11 reconnect starts with a fresh server snapshot
+UI RESULT: 12 passed, 0 failed

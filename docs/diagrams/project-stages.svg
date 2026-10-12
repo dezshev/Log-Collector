@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 242" role="img" aria-labelledby="title desc">
+  <title id="title">Этапы проекта LogCollector</title>
+  <desc id="desc">Реализация и автоматические проверки завершены; ручная приёмка отмечена выполненной по подтверждению владельца проекта.</desc>
+  <rect width="1280" height="242" rx="20" fill="#172943"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="38" y="42" fill="#c1d7fa" font-size="15" font-weight="600" letter-spacing="2">КАРТА ПРОЕКТА</text>
+    <g>
+      <rect x="38" y="69" width="374" height="135" rx="12" fill="#223c48" stroke="#638f82"/>
+      <rect x="453" y="69" width="374" height="135" rx="12" fill="#223c48" stroke="#638f82"/>
+      <rect x="868" y="69" width="374" height="135" rx="12" fill="#223c48" stroke="#638f82"/>
+      <circle cx="73" cy="107" r="14" fill="#579a7b"/><path d="m66 106 5 5 9-10" fill="none" stroke="#fff" stroke-width="2"/>
+      <circle cx="488" cy="107" r="14" fill="#579a7b"/><path d="m481 106 5 5 9-10" fill="none" stroke="#fff" stroke-width="2"/>
+      <circle cx="903" cy="107" r="14" fill="#579a7b"/><path d="m896 106 5 5 9-10" fill="none" stroke="#fff" stroke-width="2"/>
+      <text x="101" y="115" fill="#fff" font-size="23" font-weight="600">Реализация</text>
+      <text x="516" y="115" fill="#fff" font-size="23" font-weight="600">Проверки</text>
+      <text x="931" y="115" fill="#fff" font-size="23" font-weight="600">Ручная приёмка</text>
+      <text x="62" y="153" fill="#c5d9d3" font-size="17">DLL · сервер · интерфейс WPF</text>
+      <text x="62" y="181" fill="#95c7b2" font-size="15">Программная часть завершена</text>
+      <text x="477" y="153" fill="#c5d9d3" font-size="17">34 сценария ядра + 12 WPF</text>
+      <text x="477" y="181" fill="#95c7b2" font-size="15">Автоматические сценарии выполнены</text>
+      <text x="892" y="153" fill="#c5d9d3" font-size="17">Интерфейс · DPI · сетевой обмен</text>
+      <text x="892" y="181" fill="#95c7b2" font-size="15">Выполнение подтверждено владельцем</text>
+      <path d="M418 135h28m-7-6 7 6-7 6M833 135h28m-7-6 7 6-7 6" fill="none" stroke="#7e99bb" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
